@@ -1,4 +1,4 @@
-# disease-prediction
+# Disease-prediction
 
 # Disease-Prediction-Project
 "A machine learning-based project for disease prediction is a RTRP project done by me and Eram Fathima"
